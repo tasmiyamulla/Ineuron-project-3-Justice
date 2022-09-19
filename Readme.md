@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Justice](https:)
+### 🔗*Live Link* -: [Justice](https://tasmiya-proj-3.netlify.app)
 
 ## Technologies used
 
